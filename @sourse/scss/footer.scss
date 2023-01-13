@@ -73,7 +73,7 @@
                     display: block;
                     width: 15px;
                     height: 15px;
-                    background: url(/images/footer/envelope.svg);
+                    background: url("../images/footer/envelope.svg");
                 }
                 &:nth-child(2)::before{
                     content: '';
@@ -83,7 +83,7 @@
                     display: block;
                     width: 15px;
                     height: 15px;
-                    background: url(/images/footer/call.svg);
+                    background: url("../images/footer/call.svg");
                 }
                 &:last-child:before{
                     content: '';
@@ -93,7 +93,7 @@
                     display: block;
                     width: 15px;
                     height: 15px;
-                    background: url(/images/footer/placeholder.svg);
+                    background: url("../images/footer/placeholder.svg");
                 }
             }
         }
@@ -113,7 +113,7 @@
                     display: block;
                     width: 10px;
                     height: 10px;
-                    background: url(/images/footer/right-arrow.svg);
+                    background: url("../images/footer/right-arrow.svg");
                 }
             }
             ul a:hover li{
